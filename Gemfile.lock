@@ -39,6 +39,7 @@ GEM
     arel (6.0.3)
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
+    bootstrap-toggle-rails (2.2.1.0)
     builder (3.2.2)
     byebug (8.2.0)
     capybara (2.5.0)
@@ -171,6 +172,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bootstrap-toggle-rails
   byebug
   capybara
   coffee-rails (~> 4.1.0)
@@ -187,3 +189,6 @@ DEPENDENCIES
   turbolinks
   uglifier (>= 1.3.0)
   web-console (~> 2.0)
+
+BUNDLED WITH
+   1.15.1
